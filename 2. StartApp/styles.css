@@ -1,0 +1,13 @@
+p{
+    color: cadetblue;
+}
+div #parent{
+    padding: 2%;
+    background-color: aquamarine;
+}
+div #child{
+    background-color: rgb(255, 255, 255);
+}
+#heading{
+    color: aquamarine;
+}
